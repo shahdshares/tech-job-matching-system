@@ -1,4 +1,4 @@
-![App Screenshot]("C:\Users\FORMAT\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-10-03 214056.png")
+![App Screenshot](./screenshot.png)
 
 # Tech Job & Skill Matching System 🤖
 
