@@ -1,0 +1,6 @@
+{
+  "name": "Tech Job & Skill Matching System",
+  "description": "AI-powered career and skill gap diagnostic prediction system for Egyptian tech roles with harmonious, vivid visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
