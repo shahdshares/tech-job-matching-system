@@ -1,3 +1,5 @@
+![App Screenshot]("C:\Users\FORMAT\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-10-03 214056.png")
+
 # Tech Job & Skill Matching System 🤖
 
 An AI-powered web application that analyzes job descriptions and predicts the best skill match for developers and tech candidates, helping candidates bridge skill gaps and align with job requirements.
