@@ -1,4 +1,4 @@
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot%202026-10-03%20214056.png)
 
 # Tech Job & Skill Matching System 🤖
 
